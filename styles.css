@@ -1,0 +1,8 @@
+.alignlist {
+    display: flex;
+    justify-content: center;
+}
+
+.orderedlist {
+    margin-right: 5vh;
+}
